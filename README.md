@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | 🧠 Real-World Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCF91&center=true&vCenter=true&width=450&lines=Building+Real-World+Solutions+with+Code!;Full+Stack+Dev+%7C+UI%2FUX+Focused;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCF91&center=true&vCenter=true&width=450&lines=Building+Real-World+Solutions+with+Code!;Full+Stack+Dev;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </p>
 
 ---
