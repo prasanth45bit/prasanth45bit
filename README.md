@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCF91&center=true&vCenter=true&width=480&lines=Building+Real-World+Solutions+with+Code;Full+Stack+Developer;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </p>
-
+ 
 ---
 
 ### 🚀 About Me
