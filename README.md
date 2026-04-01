@@ -59,7 +59,7 @@ I love transforming complex ideas into intuitive, functional, and beautiful digi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanth45bit&show_icons=true&theme=radical" width="47%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prasanth45bit&show_icons=true&theme=radical" width="47%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasanth45bit&theme=radical" width="47%" />
 </p>
 
