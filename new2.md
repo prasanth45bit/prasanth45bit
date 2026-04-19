@@ -1,5 +1,3 @@
-# PROPOSED METHODOLOGY (Flow Chart)
-
 ```mermaid
 flowchart TD
     classDef orange fill:#fdb761,stroke:#000,stroke-width:1.5px,rx:5px,ry:5px,color:#000;
