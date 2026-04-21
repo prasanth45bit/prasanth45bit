@@ -35,7 +35,7 @@ Discover --> TeamCreate
 Discover --> Decision
 
 %% Team Creation → Decision (join request)
-TeamCreate --> Decision
+TeamCreate --> Workspace
 
 %% Decision paths
 Decision -- Yes --> Workspace
