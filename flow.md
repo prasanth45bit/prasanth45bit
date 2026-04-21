@@ -14,8 +14,8 @@ classDef teal fill:#a8e6e1,stroke:#000,stroke-width:1.5px,rx:5px,ry:5px,color:#0
 Start([Start]):::orange
 Auth[User Authentication]:::orange
 Discover[Hackathon Discovery]:::purple
-TeamCreate[Team Creation]:::purple
 
+TeamCreate[Team Creation]:::purple
 Decision{Join Request Approved?}:::pink
 
 Review[Review Feedback]:::blue
@@ -28,12 +28,18 @@ Resource[Resource Sharing]:::teal
 End([End]):::orange
 
 %% Flow
-Start --> Auth --> Discover --> TeamCreate --> Decision
+Start --> Auth --> Discover
 
-%% YES → Workspace Flow
+%% Split after discovery
+Discover --> TeamCreate
+Discover --> Decision
+
+%% Team Creation → Decision (join request)
+TeamCreate --> Decision
+
+%% Decision paths
 Decision -- Yes --> Workspace
 Workspace --> Task --> Resource --> End
 
-%% NO → Retry Loop
 Decision -- No --> Review
-Review --> Update --> TeamCreate
+Review --> Update --> Decision
